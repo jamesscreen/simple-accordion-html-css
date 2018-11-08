@@ -1,5 +1,6 @@
 .accord_block {
 	border: 1px solid grey;
+	width: 500px;
 }
 
 label{
@@ -13,7 +14,7 @@ p{
 	margin: 0;
 	max-height: 0;
 	overflow: hidden;
-	transition: all .5s ease;
+	transition: all .3s ease;
 }
 
 input{
@@ -22,5 +23,5 @@ input{
 
 input:checked ~ p{
 	padding: 10px;
-	max-height: 100px;
+	max-height: 100%;
 }
