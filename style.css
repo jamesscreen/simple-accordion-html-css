@@ -1,0 +1,19 @@
+.accord_block {
+	border: 1px solid grey;
+}
+
+label{
+	background-color: antiquewhite;
+	display: block;
+	line-height: 30px;
+	padding-left: 10px;
+}
+
+p{
+	padding: 10px;
+	margin: 0;
+}
+
+input[type="radio"]{
+	display: none;
+}
