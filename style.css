@@ -12,6 +12,7 @@ label{
 p{
 	padding: 10px;
 	margin: 0;
+	display: none;
 }
 
 input[type="radio"]{
